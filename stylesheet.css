@@ -10,3 +10,5 @@ h1
 #aboutme
 {color: white;
   text-shadow: 2px 2px 4px black;}
+table
+{column-gap: 40px;}
